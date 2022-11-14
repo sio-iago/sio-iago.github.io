@@ -10,7 +10,7 @@ and more fun way. The main Java frameworks (e.g.: `Spring`, `Quarkus`) have out-
 Kotlin support, enabling a very flat learning curve, since you already know the framework
 and is just getting used to the new language syntax.
 
-When I started learning Kotlin I was no beginner to Functional Programming. I already new
+When I started learning Kotlin I was no beginner to Functional Programming. I already knew
 functional constructs (`map`, `filter`, `reduce`) but coming from a Java background, the
 first thing that came to mind is _"let's convert it to a stream like we do in Java"_. But
 that's far for the optimal Kotlin way of doing it, since it has native support to a lot
