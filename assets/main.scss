@@ -1,0 +1,64 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$primary: #48485f;
+// $primary: #1a1a5f;
+$secondary: #fafafd;
+$link: #48485f;
+$link-hover: #18182f;
+
+$title-color: #efefef;
+$light: #cfcfcf;
+
+.site-header {
+  background-color: $primary;
+
+  .trigger {
+    background-color: $primary;
+  }
+
+  .site-title {
+    color: $title-color;
+  }
+
+  .page-link {
+    color: $light;
+  }
+}
+
+a,
+.username,
+h3 .post-link {
+  color: $link;
+
+  &:hover {
+    color: $link-hover;
+  }
+}
+
+.site-footer {
+  background-color: $secondary;
+}
+
+.hero-mini {
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  margin-right: 9px;
+}
+
+
+.hero-img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  margin-right: 0.5em;
+}
+
+.hero-name {
+  margin: 1em 0;
+  font-size: 1.6em;
+  font-weight: bold;
+}
