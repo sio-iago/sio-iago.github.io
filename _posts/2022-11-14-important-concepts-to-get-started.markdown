@@ -167,7 +167,7 @@ data class User(
 
 val aUser = User("iago", 50)
 aUser.age = 20 // No compilation errors, age is "var"
-aUser.username "change-it" // Compilation error, username is "val"
+aUser.username = "change-it" // Compilation error, username is "val"
 ```
 
 Using `val` and `var` effectively will hugely improve readability and maintainability
