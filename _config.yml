@@ -22,6 +22,7 @@ domain: sio-iago.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sio-iago.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
+show_excerpts: true
 
 github_username:  sio-iago
 linkedin_username: iago-oliveira
