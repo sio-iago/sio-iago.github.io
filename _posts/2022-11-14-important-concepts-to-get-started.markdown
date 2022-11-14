@@ -215,7 +215,7 @@ print(user) // Prints "Iago - [User, Staff]"
 #### Classes, Methods and Functions
 
 The third case of immutability is around classes and methods. All
-classes, functions and methods are in Kotlin are defined as `final`
+classes, functions and methods in Kotlin are defined as `final`
 by default. In order to change that behavior and enable extensibility
 we need to declare it as `open`. Let's take a look at the following
 example:
@@ -353,8 +353,7 @@ Java and Kotlin have lots of similarities, but some differences that may be hard
 to get used to when learning one or the other. Hopefully this post will help you
 on discovering Kotlin or learning it.
 
-Kotlin is a powerful, modern language and mature language that's fit both for
-client and server side applications. And the most important, Kotlin is lots of
-`fun`! Give it a try.
+Kotlin is a powerful, modern language and mature language and, the most important,
+Kotlin is lots of `fun`!
 
 /iago
