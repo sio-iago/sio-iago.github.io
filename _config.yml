@@ -32,8 +32,6 @@ google_analytics: UA-68954040-3
 markdown: kramdown
 
 theme: minima
-minima:
-  skin: dark
 
 plugins:
   - jekyll-feed
@@ -41,8 +39,7 @@ plugins:
 
 sass:
   sass_dir:           assets
-  # style:              compressed
-  style:              expanded
+  style:              compressed
   
 
 # Exclude from processing.
