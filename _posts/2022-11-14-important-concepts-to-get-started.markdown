@@ -96,7 +96,7 @@ class UserValidatorFunctionsTest {
 }
 ```
 
-There's even a more interesting use case of Kotlin functions. Remeber when
+There's even a more interesting use case of Kotlin functions. Remember when
 you need to perform operations on Collections in Java? We usually have to
 either create a `Stream` or convert to stream.
 
