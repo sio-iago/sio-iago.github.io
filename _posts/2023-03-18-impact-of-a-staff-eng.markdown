@@ -9,8 +9,9 @@ Back when I was starting my career as a Software Engineer I didn't even know abo
 what career ladders where possible or titles that existed in the market. Today, as
 a Staff Engineer, I can't point out exactly when I became a Staff Engineer or what
 was I doing different from a Senior Engineer. There are many overlaps and a lot of
-work that's about the same of a Staff Engineer but the difference lies mostly on the
-scope of work and impact: Team impact versus Organization impact.
+work that's about the same both as Senior and Staff Engineer, but one of the 
+differences lie on the scope of work and impact: Team impact versus Organization
+impact.
 
 Let's break it down with a fun example:
 
