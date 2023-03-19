@@ -2,7 +2,7 @@
 layout: post
 title: "Leadership: Senior Engineer vs Staff Engineer"
 date: 2023-03-19 00:00:00 -0300
-categories: staff-engineer, career, leadership
+categories: staff-engineer career leadership
 ---
 
 Back when I was starting my career as a Software Engineer I didn't even know about 
